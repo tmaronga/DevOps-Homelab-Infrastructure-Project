@@ -92,3 +92,4 @@ fi
 
 echo "==> Setup complete. Log out/in or restart shell to apply group changes."
 echo "Note: Review and customize the script for production use."
+Last updated: Tue Sep 16 06:00:43 PM CEST 2025
