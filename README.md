@@ -40,7 +40,7 @@ Edit the https://www.linkedin.com/in/tendayi-maronga/ lines to your actual conta
 
 ---
 
-## 6. Add sample scripts (copy these into `scripts/`)
+## 6. Add sample scripts 
 
 ### 6.1 `scripts/homelab-setup.sh` — basic safe bootstrap
 This script installs Docker, Portainer, Tailscale and K3s (review before running).
